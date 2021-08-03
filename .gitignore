@@ -7,6 +7,8 @@
 # BlueJ files
 *.ctxt
 
+#MAC OS Files
+*.DS_STORE
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 

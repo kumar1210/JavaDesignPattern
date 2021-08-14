@@ -4,6 +4,8 @@
 package org.kumar.creational.builder;
 
 /**
+ * An immutable class
+ * 
  * @author gaurkuku
  *
  */
